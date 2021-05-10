@@ -1,0 +1,15 @@
+#roll {
+    position: absolute;
+    top: 55px;
+    left: 380px;;
+}
+#yaw {
+    position: absolute;
+    top: 23px;
+    left: 225px;
+}
+#pitch{
+    position: fixed;
+    top: 55px;
+    left: 20px;
+}
